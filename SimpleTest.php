@@ -13,7 +13,7 @@ class SimpleTest extends TestCase
     {
         // ini adalah baris kode yang membuat objek dari kelas.
         $Wc = new WordCount();
-
+        //test
         // ini adalah deklarasi variabel yang berisi kalimat yang akan diuji jumlah katanya. 
         $TestSentence = "My name is Joko"; // 4 Kata ..
         // ini adalah baris kode yang memanggil metode 'countWords' dari objek '$Wc' dan menyimpan hasilnya dalam variabel '$WordCount'.
